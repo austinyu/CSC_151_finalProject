@@ -1,1 +1,0 @@
-This is the final project for class CSC-151 at Grinnell College. This algorithm is written in Scheme and its purpose is to provide user with choices of recommended colleges according to the input criteria. 
